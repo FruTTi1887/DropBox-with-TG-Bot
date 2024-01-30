@@ -3,7 +3,7 @@ import time
 import psutil
 import os
 
-DROPBOX_ACCESS_TOKEN = 'sl.BupyeMefsMCU1PA2wiUiJ_VONyHaOIaD1VpAWMyNATJdSYCjNSWt28K1GMojdD-l0SsRjjgkoQn5-E5eXtNaWa-olxVv6puLbl9mSHGAZMvu0Nn_uiNGGCuAsnm36Qjva4qFar14ms7L'
+DROPBOX_ACCESS_TOKEN = 'YOUR_DROPBOX_ACCESS_TOKEN'
 DROPBOX_FILE_PATH = '/messages.txt'
 
 
